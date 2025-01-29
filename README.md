@@ -44,6 +44,9 @@ python main.py
 ### 3. Viewing the Output
 Once the program is running, the 3D cube in the Ursina window will rotate based on the received quaternion data from the MPU6050 sensor.
 
+##Demo
+![InAction](https://github.com/Tadyboii/ursina-3d-gyro-visualization/blob/main/gyro.gif)
+
 ## Notes
 - Ensure that your Arduino/ESP32 is correctly sending quaternion values over the serial connection. The serial should output quaternion values with this format:
 ```
