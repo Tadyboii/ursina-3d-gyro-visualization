@@ -44,7 +44,7 @@ python main.py
 ### 3. Viewing the Output
 Once the program is running, the 3D cube in the Ursina window will rotate based on the received quaternion data from the MPU6050 sensor.
 
-##Demo
+## Demo
 ![InAction](https://github.com/Tadyboii/ursina-3d-gyro-visualization/blob/main/gyro.gif)
 
 ## Notes
