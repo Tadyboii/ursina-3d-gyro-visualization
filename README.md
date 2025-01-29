@@ -61,5 +61,5 @@ For example:
 Contributions are welcome! If you'd like to improve this project, feel free to submit a pull request or open an issue on GitHub.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
